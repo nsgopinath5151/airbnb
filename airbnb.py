@@ -427,7 +427,7 @@ if select == "About":
     st.write('''***Conduct exploratory data analysis to understand the distribution and patterns in the data.
         Explore relationships between variables and identify potential insights.***''')
     
-    st.subheader(":blue[4. Visualization:]")
+    st.subheader(":orange[4. Visualization:]")
 
     st.write('''***Create visualizations to represent key metrics and trends.
         Use charts, graphs, and maps to convey information effectively.
